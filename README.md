@@ -1,23 +1,23 @@
-# Malvin Pair - Pair Code Generator
-> **A simple and elegant way to generate pairing codes for bots with Malvin Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
+# lyrical Pair - Pair Code Generator
+> **A simple and elegant way to generate pairing codes for bots with lyrical Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
 
 - **Fork**, **Star**, and **Edit** as you wish.
 - **Deploy** on Heroku, Render, or Koyeb with one click.
-- Integrated into **[Malvin Pairing Site](https://pairing.ech.web.id)**. 
+- Integrated into **[lyrical Pairing Site](https://pairing.ech.web.id)**. 
 
 ### **Important Note:**
-This repo generates pairing codes and session IDs for bots using **Malvin Baileys** powered by **mega.js**.
+This repo generates pairing codes and session IDs for bots using **lyrical Baileys** powered by **mega.js**.
 
 ---
 
 <p align="center">
    <a href="https://github.com/XdKing2">
-    <img src="https://i.imgur.com/teQzVR1.jpeg" width="500">
+    
    </a>
 </p>
 
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{XdKing2}/count.svg" alt="Malvin Xd:: Visitor's Count" />
+   <img src="https://profile-counter.glitch.me/{XdKing2}/count.svg" alt="lyrical_xmd Xd:: Visitor's Count" />
 </p>
 
 ---
@@ -29,8 +29,8 @@ Feel free to **Fork** or **Star** this repository to contribute or personalize i
   <a href="https://github.com/XdKing2/malvin-pair/fork">
     <img alt="Fork this repo" src="https://img.shields.io/badge/Fork%20This%20Repo-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/XdKing2/malvin-pair/stargazers">
-    <img alt="Star this repo" src="https://img.shields.io/github/stars/XdKing2/malvin-pair?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/XdKing2/lyrical pair/stargazers">
+    <img alt="Star this repo" src="https://img.shields.io/github/stars/Xlyr2/lyrical-pair?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -63,17 +63,17 @@ Deploy the project to your favorite hosting platform with the buttons below:
 ---
 
 ### **Example Output**
-View the output in action by visiting the **[Malvin Pairing Site](https://pairing.gh.web.id)**.
+View the output in action by visiting the **[lyricalPairing Site](https://pairing.gh.web.id)**.
 
 ---
 
 ### **Contact the Owner**
 Need support or have questions? Contact the owner:
 
-[Malvin King on GitHub](https://github.com/XdKing2)
+[lyricaltravor04 on GitHub](https://github.com/XdKing2)
 
 ---
 
 ### **Credits**
 - **Malvin King** (Creator)
-- **Powered by** [Malvin Baileys](https://github.com/xdking2/malvin-baileys)
+- **Powered by** [lyrical Baileys](https://github.com/xdking2/malvin-baileys)
