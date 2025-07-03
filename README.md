@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 Knight-Session-Generator
 
 ## 📊 Visitor Counter
 
