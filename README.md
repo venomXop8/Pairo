@@ -1,4 +1,4 @@
-# 🚀 Knight-Session-Generator
+# 🚀 Dark-Knight-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -58,7 +58,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/263780166288)
+📬 [`Contact on WhatsApp`](https://wa.me/94761332610)
 
 ---
 
