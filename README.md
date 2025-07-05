@@ -61,7 +61,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 📬 [`Contact on WhatsApp dark knight addmin kavidu`](https://wa.me/94761332610?text=Kavidu_support_me👾)
 
-📬 [`Contact on WhatsApp dark knight addmin kavidu`](https://wa.me/94756320286?text=Chanuka_support_me👾)
+📬 [`Contact on WhatsApp dark knight addmin Chanuka`](https://wa.me/94756320286?text=Chanuka_support_me👾)
 
 
 
