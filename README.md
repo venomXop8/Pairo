@@ -58,8 +58,8 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/94761332610)
-📬 [`Contact on WhatsApp`](https://wa.me/94763934860)
+📬 [`Contact on WhatsApp dark knight owner`](https://wa.me/94763934860)
+📬 [`Contact on WhatsApp dark knight addmin`](https://wa.me/94761332610)
 
 
 ---
