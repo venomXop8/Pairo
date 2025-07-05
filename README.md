@@ -1,4 +1,4 @@
-# 🚀 DARK-KNIGHT-Session-Generator
+# 👑 DARK-KNIGHT-Session-Generator
 
 ## 📊 Visitor Counter
 
