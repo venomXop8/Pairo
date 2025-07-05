@@ -12,7 +12,7 @@
 
 [![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/XdKing2/malvin-pair/fork)
 
-Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web **pair code** login.
+Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web **PAIR CODE** login.
 
 > ⚠️ This is the **same code** used on my live site:  
 > 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
@@ -55,7 +55,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp dark knight owner tenuka`](https://wa.me/94763934860?text=*Tenuka_support_me👾*)
+📬 [`**Contact on WhatsApp dark knight owner tenuka**`](https://wa.me/94763934860?text=*Tenuka_support_me👾*)
 
 📬 [`Contact on WhatsApp dark knight addmin sachithra`](https://wa.me/94761332610?text=*Sachithra_support_me👾*)
 
