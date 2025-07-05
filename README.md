@@ -10,9 +10,9 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/darkknight567817/DARK-KNIGHT-PAIR/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/XdKing2/malvin-pair/fork)
 
-Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
+Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web pair code login.
 
 > ⚠️ This is the **same code** used on my live site:  
 > 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
