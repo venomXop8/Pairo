@@ -50,7 +50,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 ---
 
-## 👑 Owner
+## 👑 Owner & addmin....
 
 <p align="center">
   <a href="https://github.com/XdKing2">
