@@ -69,3 +69,9 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 ---
 
 
+---
+
+## 🧪 Example Output
+
+[![👉 Try it here:](https://img.shields.
+
