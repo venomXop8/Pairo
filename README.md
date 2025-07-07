@@ -60,6 +60,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 | MAIN OWNER | CONTACT ON WHATSAPP |
 |---------|--------|
-| 👑 OWNER THENUKA | [![Contact on whatsapp](https://wa.me/94763934860?text=**Hey💻📍**) |
+| 👑 OWNER THENUKA | 📬 [Contact on WhatsApp dark knight owner tenuka](https://wa.me/94763934860?text=OWNER=Tenuka-support_me💻📍)
+
 
 
