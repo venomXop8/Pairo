@@ -3,7 +3,7 @@
 ## 📊 Visitor Counter
 
 <p align="center">
-   <img🧬 src="https://profile-counter.glitch.me/DARK-KNIGHT-PAIR/count.svg" alt="visitor counter"/>
+   <img src="https://profile-counter.glitch.me/DARK-KNIGHT-PAIR/count.svg" alt="visitor counter"/>
 </p>
 
 ---
