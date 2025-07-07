@@ -55,22 +55,10 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
   </a>
 </p>
 
-📬 [`Contact on WhatsApp dark knight owner tenuka`](https://wa.me/94763934860?text=*OWNER=Tenuka-support_me💻📍*)
+## 📦 Deploy Now
 
-📬 [`Contact on WhatsApp dark knight addmin sachithra`](https://wa.me/94761332610?text=*ADDMIN=Sachithra-support_me💻📍*)
+| Platform | Deploy |
+|---------|--------|
+| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/malvin-pair) |
 
-📬 [`Contact on WhatsApp dark knight addmin kavidu`](https://wa.me/94766704052?text=*ADDMIN=Kavidu-support_me💻📍*)
-
-📬 [`Contact on WhatsApp dark knight addmin Chanuka`](https://wa.me/94756320286?text=*ADDMIN=Chanuka-support_me💻📍*)
-
-
-
-
----
-
-
-
-## 🧪 DARK KNIGHT SUPPORT GROUP & CHANNEL
-
-[Dark knight official group](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
 
