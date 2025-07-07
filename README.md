@@ -62,10 +62,18 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 | 🗣 ADDMIN SACHITHRA |  📬 [Contact on WhatsApp dark knight addmin ](https://wa.me/94761332610?text=ADDMIN=Sachithra-support_me💻📍)
 | 🗣 ADDMIN KAVIDU    |  📬 [Contact on WhatsApp dark knight addmin ](https://wa.me/94766704052?text=ADDMIN=Kavidu-support_me💻📍)
 
+## 🧬 DARK KNIGHT WHATSAPP GROUP & WHATSAPP CHANNEL....
+
+<p align="center">
+  <a href="https://github.com/XdKing2">
+    <img src="https://files.catbox.moe/brlkte.jpg" width="200" height="200" alt="DARK KNIGHT"/>
+  </a>
+</p>
+
 | GROUP OR CHANNEL| JOIN FOLLOW LINK |
 |---------|--------|
-| OFFICIAL DARK KNIGHT GROUP  | 📬 [DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
-| OFFICIAL DARK KNIGHT GROUP  | 📬 [DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
+| OFFICIAL DARK KNIGHT OFFICIAL WHATSAPP GROUP  | 📬 [JOIN NOW DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
+| OFFICIAL DARK KNIGHT OFFICIAL WHATSAPP CHANNEL  | 📬 [FOLLOW DARK KNIGHT MAIN CHANNEL](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
 
 
 
