@@ -64,12 +64,6 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 ## 🧬 DARK KNIGHT WHATSAPP GROUP & WHATSAPP CHANNEL....
 
-<p align="center">
-  <a href="https://github.com/XdKing2">
-    <img src="https://files.catbox.moe/brlkte.jpg" width="200" height="200" alt="DARK KNIGHT"/>
-  </a>
-</p>
-
 | GROUP OR CHANNEL| JOIN FOLLOW LINK |
 |---------|--------|
 | OFFICIAL DARK KNIGHT OFFICIAL WHATSAPP GROUP  | 📬 [JOIN NOW DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
