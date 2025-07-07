@@ -58,7 +58,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 | MAIN OWNER | CONTACT ON WHATSAPP |
 |---------|--------|
 | 👑 OWNER THENUKA    | 📬 [Contact on WhatsApp dark knight owner ](https://wa.me/94763934860?text=OWNER=Tenuka-support_me💻📍)
-| ADDMIN.... | CONTACT ON WHATSAPP |
+| MAIN OWNER | CONTACT ON WHATSAPP |
 | 👑 ADDMIN SACHITHRA |  📬 [Contact on WhatsApp dark knight addmin ](https://wa.me/94761332610?text=ADDMIN=Sachithra-support_me💻📍)
 | 👑 ADDMIN KAVIDU    |  📬 [Contact on WhatsApp dark knight addmin ](https://wa.me/94766704052?text=ADDMIN=Kavidu-support_me💻📍)
 
