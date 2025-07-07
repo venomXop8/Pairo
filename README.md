@@ -72,5 +72,5 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 ## 🧪 DARK KNIGHT SUPPORT GROUP & CHANNEL
 
-[![**DARK KNIGHT SUPPORT GROUP**](https://img.shields.
+[![**DARK KNIGHT SUPPORT GROUP**](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
 
