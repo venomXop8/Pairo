@@ -64,8 +64,8 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 | GROUP OR CHANNEL| JOIN FOLLOW LINK |
 |---------|--------|
-| OFFICIAL DARK KNIGHT GROUP  | 📬 [Contact on WhatsApp dark knight owner ](https://wa.me/94763934860?text=OWNER=Tenuka-support_me💻📍)
-| ADDMIN.... | CONTACT ON WHATSAPP |
+| OFFICIAL DARK KNIGHT GROUP  | 📬 [DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
+| OFFICIAL DARK KNIGHT GROUP  | 📬 [DARK KNIGHT MAIN GROUP](https://chat.whatsapp.com/IGgPW6pTrH14oAWCJALYR5)
 
 
 
