@@ -15,7 +15,7 @@
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web **PAIR CODE** login.
 
 > ⚠️ This is the **same code** used on my live site:  
-> 🔗 [Session Generator Website](https://new-session-2ag9.onrender.com/)  
+> 🔗 [Session Generator Website](file:///C:/Users/fghia/Documents/WEB-PAIR-main/pair.html)  
 > 💬 Don't ask for more — just **fork**, **star**, **edit** ,and **deploy**!
 
 ---
